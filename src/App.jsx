@@ -31,8 +31,6 @@ export default function App() {
     setColorName('')
     setColorHex('')
     setFormError('')
-    
-    console.log(newColor)
   };
 
   return (
